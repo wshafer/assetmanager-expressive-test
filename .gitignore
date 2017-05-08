@@ -1,0 +1,10 @@
+.idea
+composer.phar
+.vagrant
+clover.xml
+coveralls-upload.json
+phpunit.xml
+vendor/
+composer.lock
+html/
+ubuntu-xenial-16.04-cloudimg-console.log
