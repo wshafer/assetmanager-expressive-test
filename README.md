@@ -1,17 +1,17 @@
-# Asset Manager Zend Expressive Sandbox
+# Asset Manager Zend Framework Sandbox
 
 ## Introduction
 
-This is a skeleton application using the Zend Expressive and module
+This is a skeleton application using the Zend Framework MVC layer and module
 systems. It's designed to be a quick test bed for the 
-Zend Expressive integration.
+Zend Framework integration.
 
 ## Installation
 
 
 ```bash
-$ git clone git@github.com:wshafer/assetmanager-zf-test.git zf-test
-$ cd zf-test
+$ git clone git@github.com:wshafer/assetmanager-expressive-test.git expressive-test
+$ cd expressive-test
 $ vagrant up
 $ vagrant ssh -c 'composer install'
 ```
