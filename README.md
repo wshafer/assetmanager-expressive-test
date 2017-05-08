@@ -1,10 +1,10 @@
-# Asset Manager Zend Framework Sandbox
+# Asset Manager Zend Expressive Sandbox
 
 ## Introduction
 
-This is a skeleton application using the Zend Framework MVC layer and module
-systems. It's designed to be a quick test bed for the 
-Zend Framework integration.
+This is a skeleton application using the Zend Expressive module
+system. It's designed to be a quick test bed for the 
+Zend Expressive integration.
 
 ## Installation
 
